@@ -1,9 +1,0 @@
-
-  name: test2
-  namespace: jlab_test
-
-  resources:
-    memory: 2048Mi
-    cpu: 2000m
-
-  
