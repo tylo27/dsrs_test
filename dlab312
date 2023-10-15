@@ -1,0 +1,10 @@
+cluster: dsrs-hoth
+sync: true
+jupytersingle:
+  labs:
+  - ben
+  - urban
+  - jamshed
+  - workshop
+  - experian
+  - divijk
