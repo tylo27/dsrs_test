@@ -1,6 +1,0 @@
-name: hi
-  namespace: 3
-
-  resources:
-    memory: 2
-    cpu: 1
