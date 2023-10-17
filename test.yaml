@@ -1,0 +1,6 @@
+name: test
+  namespace: lab_test
+
+  resources:
+    memory: 2048Mi
+    cpu: 2000
