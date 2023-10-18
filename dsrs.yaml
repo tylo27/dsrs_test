@@ -1,0 +1,10 @@
+name: dsrs
+namespace: jlab
+
+resources:
+  memory: 2000Mi
+  cpu: 4000m
+
+storage:
+  earnings: true
+  nielsen: true
