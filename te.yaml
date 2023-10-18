@@ -1,0 +1,10 @@
+name: te
+namespace: jlab
+
+resources:
+  memory: 4000Mi
+  cpu: 5000m
+
+storage:
+  earnings: false
+  nielsen: true
