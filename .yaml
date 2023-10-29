@@ -1,0 +1,10 @@
+name: 
+namespace: jlab
+
+resources:
+  memory: 2000
+  cpu: 1
+
+storage:
+  earnings: false
+  nielsen: true
