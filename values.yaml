@@ -2,5 +2,4 @@ cluster: dsrs-hoth
 sync: true
 jupytersingle:
   labs:
-  - experian
   - divijk
