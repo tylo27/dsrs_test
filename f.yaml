@@ -1,0 +1,10 @@
+name: f
+namespace: jlab
+
+resources:
+  memory: 3000Mi
+  cpu: 2
+
+storage:
+  earnings: false
+  nielsen: false
