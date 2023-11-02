@@ -2,7 +2,6 @@ cluster: dsrs-hoth
 sync: true
 jupytersingle:
   labs:
-  - urban
   - jamshed
   - workshop
   - experian
