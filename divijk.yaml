@@ -1,0 +1,10 @@
+name: divijk
+namespace: jlab
+
+resources:
+  memory: 12000Mi
+  cpu: 6
+
+storage:
+  earnings: false
+  nielsen: false
