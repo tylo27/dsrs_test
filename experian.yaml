@@ -1,0 +1,10 @@
+name: experian
+namespace: jlab
+
+resources:
+  memory: 9000Mi
+  cpu: 2
+
+storage:
+  earnings: false
+  nielsen: false
