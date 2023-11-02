@@ -3,4 +3,3 @@ sync: true
 jupytersingle:
   labs:
   - test
-  - j
