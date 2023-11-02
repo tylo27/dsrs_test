@@ -1,0 +1,10 @@
+name: test
+namespace: jlab
+
+resources:
+  memory: 7000Mi
+  cpu: 5
+
+storage:
+  earnings: true
+  nielsen: true
