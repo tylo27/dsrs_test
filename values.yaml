@@ -3,7 +3,6 @@ sync: true
 jupytersingle:
   labs:
   - test
-  - e
   - f
   - g
   - h
