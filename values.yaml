@@ -3,5 +3,4 @@ sync: true
 jupytersingle:
   labs:
   - workshop
-  - test
   - dsrs
