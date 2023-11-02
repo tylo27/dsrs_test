@@ -3,6 +3,5 @@ sync: true
 jupytersingle:
   labs:
   - workshop
-  - divijk
   - test
   - dsrs
