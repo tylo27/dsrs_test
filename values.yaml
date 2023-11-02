@@ -1,4 +1,5 @@
 cluster: dsrs-hoth
 sync: true
 jupytersingle:
-  labs: []
+  labs:
+  - test
