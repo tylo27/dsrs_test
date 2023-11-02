@@ -1,0 +1,10 @@
+name: jamshed
+namespace: jlab
+
+resources:
+  memory: 3000Mi
+  cpu: 3
+
+storage:
+  earnings: false
+  nielsen: false
