@@ -1,0 +1,10 @@
+name: ben
+namespace: jlab
+
+resources:
+  memory: 9000Mi
+  cpu: 3
+
+storage:
+  earnings: false
+  nielsen: false
