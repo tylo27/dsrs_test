@@ -2,6 +2,5 @@ cluster: dsrs-hoth
 sync: true
 jupytersingle:
   labs:
-  - test1
   - test2
   - test5
