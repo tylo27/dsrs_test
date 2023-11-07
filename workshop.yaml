@@ -1,0 +1,10 @@
+name: workshop
+namespace: jlab
+
+resources:
+  memory: 6000Mi
+  cpu: 2
+
+storage:
+  earnings: false
+  nielsen: true
